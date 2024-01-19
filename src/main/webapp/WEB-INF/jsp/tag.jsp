@@ -3,6 +3,6 @@
 <%@ taglib prefix="f" uri="http://www.springframework.org/tags/form" %>
 <%--<%@ taglib prefix="security" uri="http://www.springframework.org/security/tags" %>--%>
 <c:set var="contextPath" value="${pageContext.request.contextPath}"/>
-<%@ page import="fr.donovan.exam.instant_faking.mapping.UrlRoute" %>
+<%@ page import="fr.donovan.exam.centrale_ish.mapping.UrlRoute" %>
 <%@ page import="org.springframework.web.servlet.support.RequestContextUtils" %>
 <%@ page import="org.springframework.web.context.WebApplicationContext" %>
